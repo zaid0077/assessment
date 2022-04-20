@@ -1,5 +1,10 @@
+import Home from "../screens/Home";
+
+
 function App() {
-  return <div>{/* Complete the exercise here. */}</div>;
+  return (
+    <Home />
+  )
 }
 
 export default App;
